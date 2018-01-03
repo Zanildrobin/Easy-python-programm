@@ -1,0 +1,9 @@
+Deutschland Berlin
+England London
+Frankreich Paris
+Österreich Wien
+Schweiz Zürich
+Belgien Brüssel
+China Peking
+Japan Tokio
+Australien Melbourne
