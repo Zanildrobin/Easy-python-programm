@@ -1,9 +1,9 @@
 Deutschland Berlin
 England London
 Frankreich Paris
-Österreich Wien
-Schweiz Zürich
-Belgien Brüssel
+Ã–sterreich Wien
+Schweiz ZÃ¼rich
+Belgien BrÃ¼ssel
 China Peking
 Japan Tokio
 Australien Melbourne
