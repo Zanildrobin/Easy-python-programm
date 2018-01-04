@@ -1,4 +1,4 @@
-Deutschland Berlin
+﻿Deutschland Berlin
 England London
 Frankreich Paris
 Österreich Wien
@@ -7,3 +7,11 @@ Belgien Brüssel
 China Peking
 Japan Tokio
 Australien Melbourne
+Kanada Ottawa
+Afghanistan Kabul
+Ägypten Kairo
+Angola Luanda
+Armenien Jerewan
+Ghana Accra
+Irland Dublin
+Italien Rom
