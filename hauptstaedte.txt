@@ -1,19 +1,19 @@
-Deutschland Berlin
-England London
-Frankreich Paris
-Österreich Wien
-Schweiz Zürich
-Belgien Brüssel
-China Peking
-Japan Tokio
-Australien Melbourne
-Kanada Ottawa
-Afghanistan Kabul
-Ägypten Kairo
-Angola Luanda
-Armenien Jerewan
-Ghana Accra
-Irland Dublin
-Italien Rom
-Irak Bagdad
-Südkorea Seoul
+Deutschland Berlin 3.470.000
+England London 8.788.000
+Frankreich Paris 2.244.000
+Österreich Wien 1.767.000
+Schweiz Zürich 403.000
+Belgien Brüssel 1.139.000
+China Peking 21.500.000
+Japan Tokio 37.900.000
+Australien Melbourne 3.848.000
+Kanada Ottawa 947.000
+Afghanistan Kabul 4.635.000
+Ägypten Kairo 9.500.000
+Angola Luanda 6.543.000
+Armenien Jerewan 1.060.000
+Ghana Accra 1.594.000
+Irland Dublin 528.000
+Italien Rom 2.868.000
+Irak Bagdad 7.665.000
+Südkorea Seoul 9.860.000
